@@ -32,6 +32,9 @@ body {
   height: 100vh;
   background-color: var(--Very_dark);
   margin: 0;
+  display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
@@ -117,6 +120,7 @@ main {
 .body-title {
   margin: 1rem 0;
   font-weight: 600;
+  font-size: 23px;
 }
 .body-paragraph {
   font-size: 18px;
