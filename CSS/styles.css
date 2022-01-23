@@ -88,8 +88,8 @@ main {
 }
 .card__image:hover .card__preview::after {
   background-color: var(--Cyan-transparent);
-  width: 100%;
-  height: 100%;
+  width: 300px;
+  height: 300px;
   transition: all 500ms ease-in;
 }
 .card__image:hover .card__preview .img-view {
